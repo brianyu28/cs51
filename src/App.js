@@ -13,8 +13,8 @@ class App extends Component {
         <a className="button-link" href="https://goo.gl/forms/9n6HXLbNpgFhVsBh1">
           <div className="button">Topic Requests</div>
         </a>
-        <a className="button-link" href="https://goo.gl/forms/qgt4YjueWiIHidAb2">
-          <div className="button">Code Review 1 Feedback</div>
+        <a className="button-link" href="https://goo.gl/forms/fA7DO523a5OOzmJ12">
+          <div className="button">Code Review 2 Feedback</div>
         </a>
       </div>
     );
